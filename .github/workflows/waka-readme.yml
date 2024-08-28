@@ -1,24 +1,18 @@
-# This is a basic workflow to help you get started with Actions
+name: Todoist Readme
 
-name: Waka Readme
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
-  push:
-    branches:
-      - master
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
-
+    # Runs every minute
+    - cron: "* * * * *"
+      
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v2
+      - uses: abhisheknaiidu/todoist-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        
+          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
+          PREMIUM: ""
