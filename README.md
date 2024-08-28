@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 
-# Todoist Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+## Todoist Stats
 
 <!-- TODO-IST:START -->
 🏆  7,746 Karma Points           
