@@ -36,6 +36,4 @@ jobs:
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Voyager0587 # optional
-          AUTHOR_EMAIL: voyager.star@foxmail.com # optional
           # you can populate email-id with secrets instead
