@@ -5,7 +5,11 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+From: 28 August 2024 - To: 28 August 2024
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
