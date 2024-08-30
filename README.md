@@ -17,11 +17,18 @@ const veera = {
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 August 2024 - To: 28 August 2024
+From: 28 August 2024 - To: 29 August 2024
 
-Total Time: 0 secs
+Total Time: 1 hr 23 mins
 
-No activity tracked
+C++          40 mins         >>>>>>>>>>>>-------------   48.82 %
+Markdown     13 mins         >>>>---------------------   16.41 %
+TSConfig     11 mins         >>>>---------------------   14.13 %
+TeX          10 mins         >>>----------------------   12.74 %
+TypeScript   5 mins          >>-----------------------   06.04 %
+Java         1 min           -------------------------   01.27 %
+JSON         0 secs          -------------------------   00.39 %
+JavaScript   0 secs          -------------------------   00.21 %
 ```
 
 <!--END_SECTION:waka-->
