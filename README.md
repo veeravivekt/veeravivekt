@@ -16,12 +16,12 @@ const veera = {
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 28 August 2024 - To: 20 September 2024
-
-Total Time: 19 hrs 17 mins
-
-Other        6 hrs 38 mins   >>>>>>-------------------   25.61 %
+```txt
+Markdown     1 hr 50 mins    ████████▓░░░░░░░░░░░░░░░░   35.07 %
+Java         1 hr 22 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
+JavaScript   54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
+Python       31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+CSV          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
