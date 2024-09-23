@@ -7,7 +7,6 @@
 
 ```javascript
 const veera = {
-  pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java", "C++"],
   tools: ["React", "Node", "Storybook", "Docker", "Next.JS", "Node", "AWS", "gRPC"],
   interests: ["Distributed Systems", "Cloud Computing", "Machine Learning", "Enterprise Software", "AI"]
