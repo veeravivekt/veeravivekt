@@ -38,9 +38,9 @@ Text         0 secs          -------------------------   00.05 %
 ### Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  8,454 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 483 tasks so far           
+🏆  8,493 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 486 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 <!--
