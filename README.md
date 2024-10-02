@@ -12,7 +12,7 @@ const veera = {
   interests: ["Distributed Systems", "Cloud Computing", "Machine Learning", "Enterprise Software", "AI"]
 }
 ```
-
+This week:
 <!--START_SECTION:waka-->
 
 ```rust
