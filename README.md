@@ -7,9 +7,9 @@
 
 ```javascript
 const veera = {
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java", "C++"],
-  tools: ["React", "Node", "Storybook", "Docker", "Next.JS", "Node", "AWS", "gRPC"],
-  interests: ["Distributed Systems", "Cloud Computing", "Machine Learning", "Enterprise Software", "AI"]
+  code: ["python", "java", "javaScript", "typeScript", "c++"],
+  tools: ["react", "node", "spring boot", "docker", "next.JS", "aws"],
+  interests: ["distributed systems", "enterprise software", "parallel computing", "cloud computing", "machine learning", "AI"]
 }
 ```
 This week:
