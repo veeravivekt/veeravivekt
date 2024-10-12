@@ -16,17 +16,18 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 October 2024 - To: 11 October 2024
+From: 05 October 2024 - To: 12 October 2024
 
-Total Time: 13 hrs 57 mins
+Total Time: 16 hrs 15 mins
 
-Python       6 hrs 45 mins   >>>>>>>>>>>>-------------   48.25 %
-Markdown     5 hrs 18 mins   >>>>>>>>>----------------   37.86 %
-Java         1 hr 17 mins    >>-----------------------   09.19 %
-C++          31 mins         >------------------------   03.76 %
-Git Config   4 mins          -------------------------   00.56 %
-Other        2 mins          -------------------------   00.31 %
-CSV          0 secs          -------------------------   00.09 %
+Python           7 hrs 8 mins    >>>>>>>>>>>--------------   43.80 %
+Markdown         5 hrs 33 mins   >>>>>>>>>----------------   34.10 %
+Java             2 hrs 44 mins   >>>>---------------------   16.85 %
+C++              31 mins         >------------------------   03.23 %
+GitIgnore file   10 mins         -------------------------   01.12 %
+Git Config       5 mins          -------------------------   00.57 %
+Other            2 mins          -------------------------   00.26 %
+CSV              0 secs          -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
