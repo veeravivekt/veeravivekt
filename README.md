@@ -38,7 +38,7 @@ JavaScript   3 mins          -------------------------   00.36 %
 
 <!-- TODO-IST:START -->
 🏆  9,292 Karma Points           
-🌸  Completed 4 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 584 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
