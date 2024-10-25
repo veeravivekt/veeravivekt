@@ -16,19 +16,19 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 October 2024 - To: 24 October 2024
+From: 18 October 2024 - To: 25 October 2024
 
-Total Time: 14 hrs 56 mins
+Total Time: 16 hrs 26 mins
 
-Markdown     9 hrs 11 mins   >>>>>>>>>>>>>>>----------   61.52 %
-Java         2 hrs 50 mins   >>>>>--------------------   19.00 %
-HTML         59 mins         >>-----------------------   06.69 %
-Python       41 mins         >------------------------   04.65 %
-TypeScript   39 mins         >------------------------   04.37 %
-Git Config   8 mins          -------------------------   00.97 %
-Bash         7 mins          -------------------------   00.79 %
-CSS          5 mins          -------------------------   00.66 %
-XML          3 mins          -------------------------   00.44 %
+Markdown     9 hrs 42 mins   >>>>>>>>>>>>>>>----------   59.05 %
+Java         2 hrs 50 mins   >>>>---------------------   17.27 %
+Python       1 hr 40 mins    >>>----------------------   10.21 %
+HTML         59 mins         >>-----------------------   06.08 %
+TypeScript   39 mins         >------------------------   03.97 %
+Git Config   8 mins          -------------------------   00.88 %
+Bash         7 mins          -------------------------   00.72 %
+CSS          5 mins          -------------------------   00.60 %
+XML          3 mins          -------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
