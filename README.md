@@ -16,13 +16,13 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 October 2024 - To: 05 November 2024
+From: 30 October 2024 - To: 06 November 2024
 
-Total Time: 4 hrs 3 mins
+Total Time: 5 hrs 6 mins
 
-Python     3 hrs 23 mins   >>>>>>>>>>>>>>>>>>>>>----   83.61 %
-Markdown   39 mins         >>>>---------------------   16.34 %
-Other      0 secs          -------------------------   00.05 %
+Python     3 hrs 4 mins    >>>>>>>>>>>>>>>----------   60.10 %
+Markdown   2 hrs 2 mins    >>>>>>>>>>---------------   39.87 %
+Other      0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
