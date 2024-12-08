@@ -16,13 +16,13 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 November 2024 - To: 07 December 2024
+From: 01 December 2024 - To: 08 December 2024
 
-Total Time: 11 hrs 21 mins
+Total Time: 11 hrs 12 mins
 
-Markdown          10 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.04 %
-Python            45 mins         >>-----------------------   06.72 %
-Protocol Buffer   1 min           -------------------------   00.27 %
+Markdown          10 hrs 11 mins  >>>>>>>>>>>>>>>>>>>>>>>--   90.92 %
+Python            45 mins         >>-----------------------   06.81 %
+Protocol Buffer   1 min           -------------------------   00.28 %
 Text              0 secs          -------------------------   00.01 %
 Bash              0 secs          -------------------------   00.01 %
 Git Config        0 secs          -------------------------   00.01 %
