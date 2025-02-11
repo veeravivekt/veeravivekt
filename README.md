@@ -16,11 +16,13 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 February 2025 - To: 10 February 2025
+From: 04 February 2025 - To: 11 February 2025
 
-Total Time: 4 mins
+Total Time: 19 mins
 
-Python   4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Python       18 mins         >>>>>>>>>>>>>>>>>>>>>>>--   93.29 %
+Java         1 min           >>-----------------------   06.21 %
+TypeScript   0 secs          -------------------------   00.50 %
 ```
 
 <!--END_SECTION:waka-->
