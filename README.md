@@ -33,7 +33,7 @@ TypeScript   0 secs          -------------------------   00.60 %
 
 <!-- TODO-IST:START -->
 🏆  10,186 Karma Points           
-🌸  Completed 1 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 700 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
