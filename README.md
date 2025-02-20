@@ -32,7 +32,7 @@ Python     0 secs          -------------------------   00.98 %
 
 <!-- TODO-IST:START -->
 🏆  10,212 Karma Points           
-🌸  Completed 5 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 705 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
