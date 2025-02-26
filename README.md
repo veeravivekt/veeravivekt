@@ -32,7 +32,7 @@ Java       9 mins          >>>----------------------   12.30 %
 
 <!-- TODO-IST:START -->
 🏆  10,226 Karma Points           
-🌸  Completed 2 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 709 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
