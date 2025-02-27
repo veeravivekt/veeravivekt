@@ -16,13 +16,15 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 February 2025 - To: 26 February 2025
+From: 20 February 2025 - To: 27 February 2025
 
-Total Time: 3 hrs 2 mins
+Total Time: 5 hrs 19 mins
 
-Python     2 hrs 1 min     >>>>>>>>>>>>>>>>>--------   67.01 %
-Markdown   46 mins         >>>>>>-------------------   25.52 %
-Java       13 mins         >>-----------------------   07.47 %
+Python       3 hrs 33 mins   >>>>>>>>>>>>>>>>>--------   66.80 %
+Java         54 mins         >>>>---------------------   16.94 %
+Markdown     48 mins         >>>>---------------------   15.16 %
+Git Config   3 mins          -------------------------   00.98 %
+Other        0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
