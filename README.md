@@ -29,9 +29,9 @@ Markdown   4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ### Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  10,456 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 752 tasks so far           
+🏆  10,461 Karma Points           
+🌸  Completed 2 tasks today           
+✅  Completed 754 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 <!--
