@@ -16,12 +16,12 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 March 2025 - To: 26 March 2025
+From: 20 March 2025 - To: 27 March 2025
 
-Total Time: 5 hrs 13 mins
+Total Time: 5 hrs 25 mins
 
-SQL          4 hrs 50 mins   >>>>>>>>>>>>>>>>>>>>>>>--   92.73 %
-Markdown     22 mins         >>-----------------------   07.26 %
+SQL          4 hrs 50 mins   >>>>>>>>>>>>>>>>>>>>>>---   89.24 %
+Markdown     34 mins         >>>----------------------   10.75 %
 Git Config   0 secs          -------------------------   00.01 %
 ```
 
