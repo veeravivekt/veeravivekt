@@ -16,17 +16,16 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 April 2025 - To: 23 April 2025
+From: 17 April 2025 - To: 24 April 2025
 
-Total Time: 6 hrs 7 mins
+Total Time: 5 hrs 29 mins
 
-SQL        3 hrs 27 mins   >>>>>>>>>>>>>------------   52.55 %
-Python     1 hr 29 mins    >>>>>>-------------------   22.78 %
-Markdown   1 hr 4 mins     >>>>---------------------   16.38 %
-Other      27 mins         >>-----------------------   06.88 %
-Text       0 secs          -------------------------   00.07 %
-Bash       0 secs          -------------------------   00.03 %
-CSV        0 secs          -------------------------   00.02 %
+SQL        3 hrs 27 mins   >>>>>>>>>>>>>>>----------   58.10 %
+Markdown   1 hr 5 mins     >>>>>--------------------   18.36 %
+Python     51 mins         >>>>---------------------   14.41 %
+Other      27 mins         >>-----------------------   07.60 %
+Text       0 secs          -------------------------   00.08 %
+Bash       0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
