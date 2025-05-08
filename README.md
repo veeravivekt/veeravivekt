@@ -16,11 +16,14 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 April 2025 - To: 07 May 2025
+From: 01 May 2025 - To: 08 May 2025
 
-Total Time: 0 secs
+Total Time: 2 hrs 26 mins
 
-No activity tracked
+Markdown   1 hr 12 mins    >>>>>>>>>>>>-------------   49.79 %
+C          1 hr 7 mins     >>>>>>>>>>>>-------------   46.37 %
+Makefile   0 secs          -------------------------   00.65 %
+Assembly   0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
