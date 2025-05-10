@@ -16,14 +16,14 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 May 2025 - To: 09 May 2025
+From: 03 May 2025 - To: 10 May 2025
 
-Total Time: 2 hrs 56 mins
+Total Time: 2 hrs 55 mins
 
-Markdown     1 hr 20 mins    >>>>>>>>>>>--------------   45.77 %
-C            1 hr 7 mins     >>>>>>>>>>---------------   38.30 %
-JavaScript   20 mins         >>>----------------------   11.59 %
-TypeScript   2 mins          -------------------------   01.15 %
+Markdown     1 hr 19 mins    >>>>>>>>>>>--------------   45.43 %
+C            1 hr 7 mins     >>>>>>>>>>---------------   38.53 %
+JavaScript   20 mins         >>>----------------------   11.66 %
+TypeScript   2 mins          -------------------------   01.16 %
 Makefile     0 secs          -------------------------   00.54 %
 Assembly     0 secs          -------------------------   00.03 %
 Other        0 secs          -------------------------   00.03 %
