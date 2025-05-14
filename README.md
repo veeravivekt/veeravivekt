@@ -16,7 +16,7 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 May 2025 - To: 13 May 2025
+From: 07 May 2025 - To: 14 May 2025
 
 Total Time: 3 hrs 54 mins
 
