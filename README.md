@@ -16,15 +16,11 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 May 2025 - To: 17 May 2025
+From: 11 May 2025 - To: 18 May 2025
 
-Total Time: 1 hr 52 mins
+Total Time: 1 hr 32 mins
 
-Markdown     1 hr 32 mins    >>>>>>>>>>>>>>>>>>>>-----   81.83 %
-JavaScript   7 mins          >>-----------------------   06.62 %
-C            5 mins          >------------------------   04.51 %
-HTML         4 mins          >------------------------   04.01 %
-CSS          3 mins          >------------------------   02.70 %
+Markdown   1 hr 32 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
