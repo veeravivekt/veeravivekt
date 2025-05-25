@@ -16,11 +16,11 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 May 2025 - To: 24 May 2025
+From: 18 May 2025 - To: 25 May 2025
 
-Total Time: 1 hr 8 mins
+Total Time: 5 hrs 6 mins
 
-SQL   1 hr 8 mins     >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+SQL   5 hrs 6 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
