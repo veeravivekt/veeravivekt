@@ -30,7 +30,7 @@ SQL   8 hrs 59 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 
 <!-- TODO-IST:START -->
 🏆  10,879 Karma Points           
-🌸  Completed 4 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 829 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
