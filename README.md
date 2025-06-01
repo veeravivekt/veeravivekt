@@ -16,12 +16,12 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
-Total Time: 10 hrs 37 mins
+Total Time: 6 hrs 37 mins
 
-SQL        9 hrs 50 mins   >>>>>>>>>>>>>>>>>>>>>>>--   92.66 %
-Markdown   46 mins         >>-----------------------   07.34 %
+SQL        5 hrs 50 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.24 %
+Markdown   46 mins         >>>----------------------   11.76 %
 ```
 
 <!--END_SECTION:waka-->
