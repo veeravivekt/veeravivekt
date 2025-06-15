@@ -16,11 +16,11 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 June 2025 - To: 14 June 2025
+From: 08 June 2025 - To: 15 June 2025
 
-Total Time: 20 mins
+Total Time: 2 hrs 25 mins
 
-Markdown   20 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Markdown   2 hrs 25 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
