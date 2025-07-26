@@ -16,7 +16,7 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 July 2025 - To: 25 July 2025
+From: 19 July 2025 - To: 26 July 2025
 
 Total Time: 0 secs
 
