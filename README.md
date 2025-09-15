@@ -16,14 +16,13 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 September 2025 - To: 14 September 2025
+From: 08 September 2025 - To: 15 September 2025
 
-Total Time: 4 hrs 20 mins
+Total Time: 2 hrs 9 mins
 
-Python       2 hrs 13 mins   >>>>>>>>>>>>>------------   51.25 %
-Markdown     1 hr 47 mins    >>>>>>>>>>---------------   41.19 %
-Git Config   19 mins         >>-----------------------   07.43 %
-Bash         0 secs          -------------------------   00.02 %
+Markdown     1 hr 11 mins    >>>>>>>>>>>>>>-----------   55.43 %
+Python       38 mins         >>>>>>>------------------   29.65 %
+Git Config   19 mins         >>>>---------------------   14.91 %
 ```
 
 <!--END_SECTION:waka-->
