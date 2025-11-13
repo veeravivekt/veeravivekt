@@ -16,19 +16,19 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 November 2025 - To: 12 November 2025
+From: 06 November 2025 - To: 13 November 2025
 
-Total Time: 4 hrs 19 mins
+Total Time: 4 hrs 17 mins
 
-Markdown        2 hrs 25 mins   >>>>>>>>>>>>>>-----------   56.23 %
-Python          40 mins         >>>>---------------------   15.70 %
-Dart            37 mins         >>>>---------------------   14.28 %
-TypeScript      12 mins         >------------------------   04.67 %
-C#              11 mins         >------------------------   04.30 %
-INI             1 min           -------------------------   00.74 %
-Unity3D Asset   1 min           -------------------------   00.61 %
-TSConfig        0 secs          -------------------------   00.35 %
-Other           0 secs          -------------------------   00.13 %
+Markdown        1 hr 26 mins    >>>>>>>>-----------------   33.64 %
+JavaScript      1 hr 3 mins     >>>>>>-------------------   24.52 %
+Dart            38 mins         >>>>---------------------   15.09 %
+Git             17 mins         >>-----------------------   06.95 %
+TypeScript      17 mins         >>-----------------------   06.93 %
+C#              11 mins         >------------------------   04.33 %
+HTML            2 mins          -------------------------   01.00 %
+INI             1 min           -------------------------   00.75 %
+Unity3D Asset   1 min           -------------------------   00.62 %
 ```
 
 <!--END_SECTION:waka-->
