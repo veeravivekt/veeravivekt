@@ -16,16 +16,16 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 November 2025 - To: 27 November 2025
+From: 21 November 2025 - To: 28 November 2025
 
-Total Time: 1 hr 57 mins
+Total Time: 1 hr 55 mins
 
-Markdown     1 hr 11 mins    >>>>>>>>>>>>>>>----------   59.12 %
-JavaScript   33 mins         >>>>>>>------------------   27.91 %
-Bash         7 mins          >------------------------   05.81 %
-Git Config   3 mins          >------------------------   03.26 %
-Other        2 mins          >------------------------   02.45 %
-TypeScript   1 min           -------------------------   01.41 %
+Markdown     1 hr 9 mins     >>>>>>>>>>>>>>>----------   58.41 %
+JavaScript   33 mins         >>>>>>>------------------   28.40 %
+Bash         7 mins          >------------------------   05.91 %
+Git Config   3 mins          >------------------------   03.31 %
+Other        2 mins          >------------------------   02.49 %
+TypeScript   1 min           -------------------------   01.44 %
 CSS          0 secs          -------------------------   00.04 %
 ```
 
