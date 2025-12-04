@@ -34,7 +34,7 @@ CSS          0 secs          -------------------------   00.53 %
 
 <!-- TODO-IST:START -->
 🏆  12,024 Karma Points           
-🌸  Completed 3 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 1,081 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
