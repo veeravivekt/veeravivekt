@@ -16,13 +16,12 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 January 2026 - To: 14 January 2026
+From: 08 January 2026 - To: 15 January 2026
 
 Total Time: 2 mins
 
-Other      6 mins          >>>>>>>>>>>>>>>>>>>------   74.72 %
-Text       1 min           >>>>>--------------------   18.02 %
-Markdown   0 secs          >>-----------------------   07.26 %
+Text       1 min           >>>>>>>>>>>>>>>>>>-------   71.29 %
+Markdown   0 secs          >>>>>>>------------------   28.71 %
 ```
 
 <!--END_SECTION:waka-->
