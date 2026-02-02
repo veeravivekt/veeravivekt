@@ -16,15 +16,15 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 January 2026 - To: 30 January 2026
+From: 25 January 2026 - To: 01 February 2026
 
-Total Time: 1 hr 9 mins
+Total Time: 44 mins
 
-Markdown   55 mins         >>>>>>>>>>>>>>>>>>>>-----   80.39 %
-Bash       6 mins          >>-----------------------   09.93 %
-Python     3 mins          >------------------------   05.47 %
-HTML       2 mins          >------------------------   03.94 %
-CSV        0 secs          -------------------------   00.28 %
+Markdown   30 mins         >>>>>>>>>>>>>>>>>--------   69.31 %
+Bash       6 mins          >>>>---------------------   15.54 %
+Python     3 mins          >>-----------------------   08.56 %
+HTML       2 mins          >>-----------------------   06.16 %
+CSV        0 secs          -------------------------   00.43 %
 ```
 
 <!--END_SECTION:waka-->
