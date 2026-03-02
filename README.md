@@ -16,11 +16,12 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 February 2026 - To: 27 February 2026
+From: 21 February 2026 - To: 28 February 2026
 
-Total Time: 9 mins
+Total Time: 23 mins
 
-Markdown   9 mins                >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Svelte     13 mins               >>>>>>>>>>>>>>>----------   59.78 %
+Markdown   9 mins                >>>>>>>>>>---------------   40.22 %
 ```
 
 <!--END_SECTION:waka-->
