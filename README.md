@@ -16,7 +16,7 @@ This week:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 September 2026 - To: 29 September 2026
+From: 24 September 2026 - To: 01 October 2026
 
 Total Time: 32 mins
 
